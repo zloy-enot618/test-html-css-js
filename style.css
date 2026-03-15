@@ -1,0 +1,33 @@
+@keyframes colorChange {
+    10% {color: red};
+    40% {color: blue};
+    70% {color: white};
+    100% {color:beige};
+}
+
+
+
+body {
+    background-color: aqua;
+}
+
+h {
+    margin-left: 50px;
+    font-size: 50px
+}
+
+p1 {
+    font-size: 50px;
+    margin-left: 500px
+}
+
+p {
+    font-size: 50px;
+    margin-left: 500px
+}
+
+button {
+    width: 500px;
+    height: 100px;
+    margin-left: 500px
+}
